@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author emanu
+ *
+ */
+module course {
+}
