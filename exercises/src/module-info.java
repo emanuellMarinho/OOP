@@ -5,5 +5,5 @@
  * @author emanu
  *
  */
-module course {
+module rectangle {
 }
