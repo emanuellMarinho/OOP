@@ -20,6 +20,7 @@ public class Rectangle {
         return 2 * (width + height);
     }
 
+    // Diagonal
     public double calculateDiagonal() {
         return Math.sqrt(width * width + height * height);
     }
