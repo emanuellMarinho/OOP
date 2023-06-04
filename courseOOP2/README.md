@@ -2,6 +2,26 @@
 
 Este programa permite gerenciar informações básicas de um produto, como nome, preço e quantidade em estoque. Ele foi desenvolvido em Java e consiste em duas classes: `Program` e `Product`.
 
+## Classe
+
+- Modelo ou plano para criar objetos
+- Define propriedades e comportamentos
+
+## Objeto
+
+- Instância de uma classe
+- Implementação específica de um modelo ou plano
+
+## Atributos
+
+- Características e estado específicos do objeto
+- Representam seu estado
+
+## Métodos
+
+- Ações que o objeto pode executar
+- Comportamento definido pela classe
+
 ## Funcionalidade
 
 Ao executar o programa, será solicitado ao usuário que forneça os dados do produto. São eles:
