@@ -3,26 +3,30 @@ package entities;
 public class Product {
 	
 	// Atributos da classe
-	public String name;     // Nome do produto
-	public double price;    // Preço do produto
-	public int quantity;    // Quantidade em estoque do produto
+	public String name;
+	public double price;
+	public int quantity;
 	
-	// Método para calcular o valor total em estoque
+	// Construtor
+	public Product(String name, double price, int quantity) {
+		this.name = name;
+		this.price = price;
+		this.quantity = quantity;
+	}
+	
+	// Métodos
 	public double totalValueInStock() {
 		return price * quantity;
 	}
-	
-	// Método para adicionar produtos ao estoque
+
 	public void addProducts(int quantity) {
 		this.quantity += quantity;
 	}
 	
-	// Método para remover produtos do estoque
 	public void removeProducts(int quantity) {
 		this.quantity -= quantity;
 	}
-	
-	// Sobrescrita do método toString() para retornar uma representação em String dos dados do produto
+
 	public String toString() {
 		return name
 				+ ", $ "
