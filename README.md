@@ -7,3 +7,9 @@ Este é um projeto Java simples para fins de treinamento em Programação Orient
 - Demonstrar conceitos fundamentais de Programação Orientada a Objetos (OOP).
 - Aplicar o uso de classes, objetos, atributos e métodos.
 - Entender a relação entre classes e objetos e como eles podem interagir entre si.
+
+---
+
+## Curso de Referência
+
+Este projeto foi desenvolvido com base no curso "Java Completo Programação Orientada a Objetos +Projetos" ministrado pelo professor Nelio Alves. O curso fornece um amplo conhecimento sobre programação orientada a objetos em Java e pode ser acessado [aqui](https://www.udemy.com/course/java-curso-completo/).
